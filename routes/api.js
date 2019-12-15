@@ -27,7 +27,7 @@ router.get('/', async function(req, res) {
 
 
 	// la fonction getData récupère tout, a toi de faire passer les paramètres dans la fonction et mettre les filtres dans la requete
-	const data = await stations_obj.getData();
+	const data = await stations_obj.getData(filter_type, filter_val);
 
 	res.send({
 		'code': code, 
