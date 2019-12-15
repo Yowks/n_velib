@@ -8,7 +8,7 @@ class Stations {
     }
 
     async getData() {
-        return this.db.query("SELECT * FROM `table_1`")
+        return this.db.query("SELECT * FROM `data`")
             .then(([rows]) => {
                 return rows;
             })
