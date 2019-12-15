@@ -5,17 +5,17 @@ const stations_obj = new (require('../model/Stations'))()
 
 
 router.use(async (req, res, next) => {
-	let data_filter;
 
 	req.io.sockets.on('connection', function (socket) {
 
 		socket.on('search_velib', function(type, value)  {
 			console.log(type, value);
-			getJSON('http://localhost:3000/api/?'+ type +'=' + value, function(error, response){
-				data_filter = response;
+			let data_value = value;
+			if(type == 'coordones'){ data_value = value.lat+','+value.lng }
+			
+			getJSON('http://localhost:3000/api/?'+ type +'=' + data_value, function(error, response){
+				socket.emit('search_velib_response', response = response);
 			})
-			console.log(data_filter);
-
 		});
 	
 	});
