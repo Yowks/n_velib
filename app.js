@@ -1,9 +1,12 @@
 const express = require("express");
 const app = express();
 const server = require('http').createServer(app);
-const bodyParser = require("body-parser");
 const io = require('socket.io')(server);
+const dotenv = require('dotenv');
+const bodyParser = require('body-parser');
 
+
+dotenv.config();
 app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
 app.use(express.static('public'));
@@ -21,6 +24,4 @@ app.use('/', routes);
 
 
 
-server.listen(3000, () => {
-    console.log(`Listening to requests on http://localhost:3000`);
-});
+server.listen(3000, () => { });

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.319" height="24.984" viewBox="0 0 23.319 24.984">
+  <g id="hospital" transform="translate(-16)" opacity="0.5">
+    <g id="Groupe_2048" data-name="Groupe 2048" transform="translate(34.322 10.827)">
+      <g id="Groupe_2047" data-name="Groupe 2047">
+        <path id="Tracé_1146" data-name="Tracé 1146" d="M368,208v2.5h3.331V208Zm2.5,1.666h-1.666v-.833H370.5Z" transform="translate(-368 -208)"/>
+      </g>
+    </g>
+    <g id="Groupe_2050" data-name="Groupe 2050" transform="translate(34.322 14.158)">
+      <g id="Groupe_2049" data-name="Groupe 2049">
+        <path id="Tracé_1147" data-name="Tracé 1147" d="M368,272v2.5h3.331V272Zm2.5,1.666h-1.666v-.833H370.5Z" transform="translate(-368 -272)"/>
+      </g>
+    </g>
+    <g id="Groupe_2052" data-name="Groupe 2052" transform="translate(34.322 17.489)">
+      <g id="Groupe_2051" data-name="Groupe 2051">
+        <path id="Tracé_1148" data-name="Tracé 1148" d="M368,336v2.5h3.331V336Zm2.5,1.666h-1.666v-.833H370.5Z" transform="translate(-368 -336)"/>
+      </g>
+    </g>
+    <g id="Groupe_2054" data-name="Groupe 2054" transform="translate(34.322 20.821)">
+      <g id="Groupe_2053" data-name="Groupe 2053">
+        <path id="Tracé_1149" data-name="Tracé 1149" d="M368,400v2.5h3.331V400Zm2.5,1.666h-1.666v-.833H370.5Z" transform="translate(-368 -400)"/>
+      </g>
+    </g>
+    <g id="Groupe_2056" data-name="Groupe 2056" transform="translate(23.495 1.666)">
+      <g id="Groupe_2055" data-name="Groupe 2055">
+        <path id="Tracé_1150" data-name="Tracé 1150" d="M165.83,34.5V32H162.5v2.5H160V37.83h2.5v2.5h3.331v-2.5h2.5V34.5ZM167.5,37H165v2.5h-1.666V37h-2.5V35.331h2.5v-2.5H165v2.5h2.5Z" transform="translate(-160 -32)"/>
+      </g>
+    </g>
+    <g id="Groupe_2058" data-name="Groupe 2058" transform="translate(16)">
+      <g id="Groupe_2057" data-name="Groupe 2057" transform="translate(0)">
+        <path id="Tracé_1151" data-name="Tracé 1151" d="M33.489,9.161V0H21.83V9.161H16V24.985H39.319V9.161ZM21.83,24.152h-5V9.994h5Zm5.413,0H25.161v-7.5h2.082Zm2.915,0H28.076v-7.5h2.082Zm2.5,0H30.991V15.824H24.328v8.328H22.663V.833h9.994Zm5.83,0h-5V9.994h5Z" transform="translate(-16)"/>
+      </g>
+    </g>
+    <g id="Groupe_2060" data-name="Groupe 2060" transform="translate(17.666 10.827)">
+      <g id="Groupe_2059" data-name="Groupe 2059" transform="translate(0)">
+        <path id="Tracé_1152" data-name="Tracé 1152" d="M48,208v2.5h3.331V208Zm2.5,1.666H48.833v-.833H50.5Z" transform="translate(-48 -208)"/>
+      </g>
+    </g>
+    <g id="Groupe_2062" data-name="Groupe 2062" transform="translate(17.666 14.158)">
+      <g id="Groupe_2061" data-name="Groupe 2061" transform="translate(0)">
+        <path id="Tracé_1153" data-name="Tracé 1153" d="M48,272v2.5h3.331V272Zm2.5,1.666H48.833v-.833H50.5Z" transform="translate(-48 -272)"/>
+      </g>
+    </g>
+    <g id="Groupe_2064" data-name="Groupe 2064" transform="translate(17.666 17.489)">
+      <g id="Groupe_2063" data-name="Groupe 2063" transform="translate(0)">
+        <path id="Tracé_1154" data-name="Tracé 1154" d="M48,336v2.5h3.331V336Zm2.5,1.666H48.833v-.833H50.5Z" transform="translate(-48 -336)"/>
+      </g>
+    </g>
+    <g id="Groupe_2066" data-name="Groupe 2066" transform="translate(17.666 20.821)">
+      <g id="Groupe_2065" data-name="Groupe 2065" transform="translate(0)">
+        <path id="Tracé_1155" data-name="Tracé 1155" d="M48,400v2.5h3.331V400Zm2.5,1.666H48.833v-.833H50.5Z" transform="translate(-48 -400)"/>
+      </g>
+    </g>
+  </g>
+</svg>
