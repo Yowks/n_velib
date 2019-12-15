@@ -21,6 +21,6 @@
 
 
 ### Etape 3 : Visualisation des bornes vélib autour de notre position (pouvoir entrer une adresse à Paris) sur une carte.
-    - Utilisation de Mapbox (j'ai utiliser sur Hygie)
-        - On ajoute leur plugin de recherche ou de clic, on récupère la long et lat qu'on envoie dans l'url de notre API pour ensuite récupérer le résultat qu'on 
-        affichera sur la carte. (utilisation des sockets pour l'actualisation)
+- Utilisation de Mapbox (j'ai utiliser sur Hygie)
+    - On ajoute leur plugin de recherche ou de clic, on récupère la long et lat qu'on envoie dans l'url de notre API pour ensuite récupérer le résultat qu'on 
+    affichera sur la carte. (utilisation des sockets pour l'actualisation)
